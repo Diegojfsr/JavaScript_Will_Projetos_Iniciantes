@@ -1,2 +1,2 @@
-# JavaScript_Will_Projetos_Iniciantes
-JavaScript - Will | Projetos para Iniciantes
+# ReactLazyLoading
+Rotas Dinâmicas com Lazy Loading em React.Js, TypeScript e Vite.
